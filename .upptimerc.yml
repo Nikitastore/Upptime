@@ -5,7 +5,7 @@ repo: Upptime # Your GitHub repository name
 # Add your sites here
 sites:
   - name: Art-East
-    url: hhttps://www.art-east.ru/
+    url: https://www.art-east.ru/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
