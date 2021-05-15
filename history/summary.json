@@ -4,7 +4,7 @@
     "url": "https://www.art-east.ru/",
     "icon": "https://favicons.githubusercontent.com/www.art-east.ru",
     "slug": "art-east",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 1390,
     "timeYear": 1354,
     "dailyMinutesDown": {
-      "2021-05-15": 59,
+      "2021-05-15": 1348,
       "2021-05-14": 1440,
       "2021-05-13": 1440,
       "2021-05-12": 1440,
